@@ -1,0 +1,8 @@
+.App-Footer{
+    display:block;
+    justify-content: space-between;
+    background-color: rgb(224, 216, 239);
+}
+.App-Footer p{
+    padding:5px;
+}

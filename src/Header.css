@@ -1,0 +1,12 @@
+.App-Header-Row{
+    display:flex;
+    justify-content: space-between;
+    background-color: rgb(200, 229, 200);
+}
+.App-Header-Row div{
+    padding:10px;
+}
+.App-Header-Row li{
+    display:inline-block;
+    Padding:5px;
+}
